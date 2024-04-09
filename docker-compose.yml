@@ -5,6 +5,6 @@ services:
     ports:
       - "3005"
     volumes:
-      - ./wss:/src
+      - ./wss:/home/src
     networks:
       - default

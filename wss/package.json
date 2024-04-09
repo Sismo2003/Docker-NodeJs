@@ -6,6 +6,7 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
-      "ws": "8.16.0"
+      "ws": "8.16.0",
+      "ws.js": "^2.0.23"
     }
   }
