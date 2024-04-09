@@ -1,0 +1,11 @@
+{
+    "name": "testchat",
+    "version": "1.0.0",
+    "description": "test del chat",
+    "type": "module",
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "ws": "8.16.0"
+    }
+  }

@@ -1,0 +1,10 @@
+version: '3.2'
+services:
+  node:
+    build: .
+    ports:
+      - "3005"
+    volumes:
+      - ./wss:/src
+    networks:
+      - default
