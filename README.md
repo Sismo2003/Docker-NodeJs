@@ -20,5 +20,5 @@ docker ps
     <li>Make sure the volumes in <a href="docker-compose.yml">docker-compose</a> are right.</li>
 </ul>
 <h1>Thanks!</h1>
-<p>This is a repo created and maintained by <a href="https://github.com/sismo2003">&copy; Sismo</a>.</p>
 <p>I hope this repo was usefull for your proyect.</p>
+<p>This is a repo created and maintained by <a href="https://github.com/sismo2003">&copy; Sismo</a>.</p>
